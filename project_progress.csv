@@ -1,0 +1,7 @@
+task_id,task_name,sprint,planned_hours,actual_hours,status,completion_date
+1,Seleção de Fornecedores,1,20,25,Done,2025-08-08
+2,Instalação Sensores Ocupação,1,40,38,Done,2025-08-12
+3,Instalação Sensores Luz,2,30,35,Done,2025-08-20
+4,Desenvolvimento Backend,2,50,0,In Progress,
+5,Desenvolvimento Dashboard,3,60,0,To Do,
+6,Testes de Integração,3,40,0,To Do,
